@@ -6,7 +6,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='httpstatus35',
-    version='0.0.1',
+    version='0.0.2.dev0',
     description='Python 3.5 http.HTTPStatus backported to 3.4 and 2.7',
     long_description=open('README.rst', encoding='utf-8').read(),
     author='Nikita Grishko',
